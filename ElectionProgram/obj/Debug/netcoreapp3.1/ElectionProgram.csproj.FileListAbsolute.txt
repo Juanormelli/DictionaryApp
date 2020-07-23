@@ -1,0 +1,13 @@
+C:\Users\juan_\source\repos\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.exe
+C:\Users\juan_\source\repos\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.deps.json
+C:\Users\juan_\source\repos\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.runtimeconfig.json
+C:\Users\juan_\source\repos\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.runtimeconfig.dev.json
+C:\Users\juan_\source\repos\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.dll
+C:\Users\juan_\source\repos\ElectionProgram\ElectionProgram\bin\Debug\netcoreapp3.1\ElectionProgram.pdb
+C:\Users\juan_\source\repos\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.csprojAssemblyReference.cache
+C:\Users\juan_\source\repos\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.AssemblyInfoInputs.cache
+C:\Users\juan_\source\repos\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.AssemblyInfo.cs
+C:\Users\juan_\source\repos\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.dll
+C:\Users\juan_\source\repos\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.pdb
+C:\Users\juan_\source\repos\ElectionProgram\ElectionProgram\obj\Debug\netcoreapp3.1\ElectionProgram.genruntimeconfig.cache
